@@ -1287,6 +1287,53 @@
             }
         ]
     },
+     "Sun Bathing Toy Chica": {
+        "Type": "2P 30% Cooldown + 20% Range Booster",
+        "Image": "rbxassetid://101562420633845",
+        "Rarity": "Secret",
+        "PlacePrice": 1500,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.05,
+                "DamageBoost": 1.1
+            },
+            {
+                "Price": 1700,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.1,
+                "DamageBoost": 1.2
+            },
+            {
+                "Price": 1900,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15,
+                "DamageBoost": 1.35
+            },
+            {
+                "Price": 2300,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2,
+                "DamageBoost": 1.5
+            }
+        ]
+    },
     "Rad Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://18258392627",
