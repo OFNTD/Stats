@@ -1969,7 +1969,7 @@
             {
                 "Price": 20000,
                 "Range": 22,
-                "Damage": 950,
+                "Damage": 1000,
                 "Cooldown": 1
             }
         ]
