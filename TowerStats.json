@@ -1775,6 +1775,48 @@
             }
         ]
     },
+      "Scientist Bonnie": {
+        "Type": "Farm + Splash",
+        "Image": "rbxassetid://105394639594658",
+        "Rarity": "Secret",
+        "PlacePrice": 1500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 300,
+                "Cooldown": 1.5,
+                "Farm": 500
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 1.25,
+                "Farm": 1000
+            },
+            {
+                "Price": 2500,
+                "Range": 17,
+                "Damage": 300,
+                "Cooldown": 1,
+                "Farm": 2000
+            },
+            {
+                "Price": 3500,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 0.8,
+                "Farm": 3000
+            }
+        ]
+    },
     "Phantom Mangle": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363533024",
