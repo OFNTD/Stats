@@ -1023,7 +1023,7 @@
                 "Range": 15,
                 "Damage": 20,
                 "Cooldown": 1,
-                "Slow": 0.70,
+                "Slow": 0.7,
                 "SlowTime": 1
             },
             {
@@ -1031,7 +1031,7 @@
                 "Range": 16,
                 "Damage": 25,
                 "Cooldown": 1,
-                "Slow": 0.70,
+                "Slow": 0.7,
                 "SlowTime": 1
             },
             {
@@ -1108,7 +1108,7 @@
                 "Range": 20,
                 "Damage": 110,
                 "Cooldown": 1.5,
-                "Slow": 0.80,
+                "Slow": 0.8,
                 "SlowTime": 1
             },
             {
@@ -1116,7 +1116,7 @@
                 "Range": 23,
                 "Damage": 130,
                 "Cooldown": 1.5,
-                "Slow": 0.80,
+                "Slow": 0.8,
                 "SlowTime": 1
             },
             {
@@ -1124,7 +1124,7 @@
                 "Range": 24,
                 "Damage": 135,
                 "Cooldown": 1,
-                "Slow": 0.70,
+                "Slow": 0.7,
                 "SlowTime": 1
             },
             {
@@ -1132,7 +1132,7 @@
                 "Range": 26,
                 "Damage": 150,
                 "Cooldown": 1,
-                "Slow": 0.60,
+                "Slow": 0.6,
                 "SlowTime": 1
             }
         ]
@@ -1215,9 +1215,9 @@
         ]
     },
     "Algae FredBear": {
-        "Type": "Single",
+        "Type": "Secret, Slow",
         "Image": "rbxassetid://18255264349",
-        "Rarity": "Secret, Slow",
+        "Rarity": "Secret",
         "PlacePrice": 3000,
         "Max": 3,
         "hitboxOffset": {
@@ -1230,33 +1230,33 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 250,
-                "Cooldown": 2
+                "Cooldown": 2,
                 "Slow": 0.8,
-                "SlowTime": 1                
+                "SlowTime": 1
             },
             {
                 "Price": 5000,
                 "Range": 18,
                 "Damage": 350,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0.8,
-                "SlowTime": 1                
+                "SlowTime": 1
             },
             {
                 "Price": 7000,
                 "Range": 20,
                 "Damage": 500,
-                "Cooldown": 1.25
+                "Cooldown": 1.25,
                 "Slow": 0.7,
-                "SlowTime": 1                
+                "SlowTime": 1
             },
             {
                 "Price": 10000,
                 "Range": 25,
                 "Damage": 725,
-                "Cooldown": 1
+                "Cooldown": 1,
                 "Slow": 0.6,
-                "SlowTime": 1                
+                "SlowTime": 1
             }
         ]
     },
@@ -1278,8 +1278,7 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05
-            },
+                "RangeBoost": 1.05            },
             {
                 "Price": 1200,
                 "Range": 15,
@@ -1389,8 +1388,8 @@
             }
         ]
     },
-"Sparton Freddy": {
-        "Type": "Peirce"                                                                                                                         ",
+    "Sparton Freddy": {
+        "Type": "Pierce",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Rare",
         "PlacePrice": 350,
@@ -1427,7 +1426,7 @@
                 "Cooldown": 1.2
             }
         ]
-    },    
+    },
     "Patriot Freddy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18326604996",
