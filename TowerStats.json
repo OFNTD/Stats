@@ -1215,7 +1215,7 @@
         ]
     },
     "Algae FredBear": {
-        "Type": "Secret, Slow",
+        "Type": "Single, Slow",
         "Image": "rbxassetid://18255264349",
         "Rarity": "Secret",
         "PlacePrice": 3000,
