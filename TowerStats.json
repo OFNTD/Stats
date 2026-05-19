@@ -1107,33 +1107,33 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 110,
-                "Cooldown": 1.5
-                "Slow": 0.80
+                "Cooldown": 1.5,
+                "Slow": 0.80,
                 "SlowTime": 1
             },
             {
                 "Price": 1700,
                 "Range": 23,
                 "Damage": 130,
-                "Cooldown": 1.5
-                "Slow": 0.80
-                "SlowTime": 1                
+                "Cooldown": 1.5,
+                "Slow": 0.80,
+                "SlowTime": 1
             },
             {
                 "Price": 2100,
                 "Range": 24,
                 "Damage": 135,
-                "Cooldown": 1
-                "Slow": 0.70
-                "SlowTime": 1                
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
             },
             {
                 "Price": 2800,
                 "Range": 26,
                 "Damage": 150,
-                "Cooldown": 1
-                "Slow": 0.60
-                "SlowTime": 1                
+                "Cooldown": 1,
+                "Slow": 0.60,
+                "SlowTime": 1
             }
         ]
     },
@@ -1295,7 +1295,7 @@
             }
         ]
     },
-     "Sun Bathing Toy Chica": {
+    "Sun Bathing Toy Chica": {
         "Type": "2P 25% Damage Booster + 20% Range Booster",
         "Image": "rbxassetid://101562420633845",
         "Rarity": "Secret",
@@ -1343,7 +1343,7 @@
         ]
     },
     "Rad Freddy": {
-        "Type": "Peirce",
+        "Type": "Pierce",
         "Image": "rbxassetid://18258392627",
         "Rarity": "Secret",
         "PlacePrice": 800,
@@ -1437,6 +1437,24 @@
                 "Range": 15,
                 "Damage": 100,
                 "Cooldown": 4
+            },
+            {
+                "Price": 500,
+                "Range": 18,
+                "Damage": 150,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 3
+            },
+            {
+                "Price": 2000,
+                "Range": 25,
+                "Damage": 300,
+                "Cooldown": 2.5
             }
         ]
     },
@@ -2246,7 +2264,7 @@
             {
                 "Price": 15000,
                 "Range": 20,
-                "Damage":45,
+                "Damage": 45,
                 "Cooldown": 0.125,
                 "Ammo": 50,
                 "ReloadTime": 1.5
