@@ -1390,8 +1390,8 @@
         ]
     },
     "Spartan Freddy": {
-        "Type": "Pierce",
-        "Image": "rbxassetid://16620053009",
+        "Type": "Single",
+        "Image": "rbxassetid://120889676180276",
         "Rarity": "Rare",
         "PlacePrice": 350,
         "Max": 2,
