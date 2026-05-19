@@ -1376,7 +1376,7 @@
             {
                 "Price": 2000,
                 "Range": 50,
-                "Damage": 500,
+                "Damage": 400,
                 "Cooldown": 2
             }
         ]
