@@ -505,7 +505,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 12000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -516,25 +516,25 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 10,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 25000,
-                "Range": 14,
                 "Damage": 12,
                 "Cooldown": 0.05
             },
             {
-                "Price": 30000,
-                "Range": 16,
+                "Price": 15000,
+                "Range": 14,
                 "Damage": 15,
                 "Cooldown": 0.05
             },
             {
-                "Price": 50000,
+                "Price": 18000,
+                "Range": 16,
+                "Damage": 17,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 21000,
                 "Range": 18,
-                "Damage": 18,
+                "Damage": 20,
                 "Cooldown": 0.05
             }
         ]
@@ -619,7 +619,7 @@
         "Type": "Pierce",
         "Image": "rbxassetid://17802016570",
         "Rarity": "Secret",
-        "PlacePrice": 10000,
+        "PlacePrice": 6000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -635,19 +635,19 @@
                 "Cooldown": 4
             },
             {
-                "Price": 15000,
+                "Price": 8000,
                 "Range": 35,
                 "Damage": 575,
                 "Cooldown": 3.5
             },
             {
-                "Price": 20000,
+                "Price": 10000,
                 "Range": 40,
                 "Damage": 600,
                 "Cooldown": 3
             },
             {
-                "Price": 25000,
+                "Price": 14000,
                 "Range": 45,
                 "Damage": 700,
                 "Cooldown": 3
@@ -852,7 +852,7 @@
         ]
     },
     "Pirate Withered Foxy": {
-        "Type": "Single",
+        "Type": "Continues",
         "Image": "rbxassetid://17851205149",
         "Rarity": "Secret",
         "PlacePrice": 500,
@@ -1217,7 +1217,7 @@
     "Algae FredBear": {
         "Type": "Single",
         "Image": "rbxassetid://18255264349",
-        "Rarity": "Secret",
+        "Rarity": "Secret, Slow",
         "PlacePrice": 3000,
         "Max": 3,
         "hitboxOffset": {
@@ -1231,24 +1231,32 @@
                 "Range": 15,
                 "Damage": 250,
                 "Cooldown": 2
+                "Slow": 0.8,
+                "SlowTime": 1                
             },
             {
                 "Price": 5000,
                 "Range": 18,
                 "Damage": 350,
                 "Cooldown": 1.5
+                "Slow": 0.8,
+                "SlowTime": 1                
             },
             {
                 "Price": 7000,
                 "Range": 20,
                 "Damage": 500,
                 "Cooldown": 1.25
+                "Slow": 0.7,
+                "SlowTime": 1                
             },
             {
                 "Price": 10000,
                 "Range": 25,
-                "Damage": 650,
+                "Damage": 725,
                 "Cooldown": 1
+                "Slow": 0.6,
+                "SlowTime": 1                
             }
         ]
     },
@@ -1337,7 +1345,7 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.2,
+                "RangeBoost": 1.22,
                 "DamageBoost": 1.25
             }
         ]
