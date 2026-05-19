@@ -1776,53 +1776,6 @@
             }
         ]
     },
-    "Scientist Bonnie": {
-        "Type": "Poison, Splash",
-        "Image": "rbxassetid://16620053009",
-        "Rarity": "Secret",
-        "PlacePrice": 7500,
-        "Max": 2,
-        "Offset": 0.3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 12,
-                "Damage": 450,
-                "Cooldown": 2,
-                "Poison": 75,
-                "PoisonLength": 3
-            },
-            {
-                "Price": 8250,
-                "Range": 13,
-                "Damage": 525,
-                "Cooldown": 1.8,
-                "Poison": 115,
-                "PoisonLength": 3
-            },
-            {
-                "Price": 9000,
-                "Range": 14,
-                "Damage": 615,
-                "Cooldown": 1.65,
-                "Poison": 155,
-                "PoisonLength": 3
-            },
-            {
-                "Price": 10250,
-                "Range": 18,
-                "Damage": 755,
-                "Cooldown": 1.5,
-                "Poison": 255,
-                "PoisonLength": 3
-            }
-        ]
-    },
     "Quake Scott": {
         "Type": "Nuke",
         "Image": "rbxassetid://100285713585294",
@@ -1879,28 +1832,28 @@
                 "Range": 14,
                 "Damage": 300,
                 "Cooldown": 1.5,
-                "Farm": 500
+                "Farm": 200
             },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 250,
                 "Cooldown": 1.25,
-                "Farm": 1000
+                "Farm": 500
             },
             {
                 "Price": 2500,
                 "Range": 17,
                 "Damage": 300,
                 "Cooldown": 1,
-                "Farm": 2000
+                "Farm": 700
             },
             {
                 "Price": 3500,
                 "Range": 20,
                 "Damage": 400,
                 "Cooldown": 0.8,
-                "Farm": 3000
+                "Farm": 1000
             }
         ]
     },
