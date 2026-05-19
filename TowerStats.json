@@ -1091,7 +1091,7 @@
         ]
     },
     "Vendor Toy Chica": {
-        "Type": "Explosion, Slow",
+        "Type": "Explosion + Slow",
         "Image": "rbxassetid://18256363652",
         "Rarity": "Mythic",
         "PlacePrice": 1250,
